@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #05a0d8;;
+    padding: 10px;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .footer-icons a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  
+  .footer-icons i {
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer-icons i:hover {
+    color: #1877f2; /* Facebook's brand color */
+  }
+  

@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+.navigation {
+    margin-top: 20px;
+  }
+  
+  .arrow-link {
+    margin-right: 10px;
+  }
+  

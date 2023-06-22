@@ -1,0 +1,48 @@
+.right-side {
+  flex-basis: 100%;
+}
+
+.image-container {
+  margin-bottom: 20px;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+.description {
+  margin-bottom: 20px;
+}
+
+.navigation {
+  margin-top: 20px;
+}
+
+.arrow-link {
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .right-side {
+    flex-basis: 100%;
+    margin-left: 0;
+  }
+
+  .image-container {
+    margin-bottom: 20px;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .description {
+    margin-bottom: 20px;
+  }
+
+  .navigation {
+    margin-top: 20px;
+  }
+}
