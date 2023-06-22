@@ -1,0 +1,2 @@
+YOTEK CONSTRUCTION
+YOTEK Construction plc. was established in 1998 by Yohannes Teklay. In the last 21, years  the Company has established itself as one of the leading construction company in Ethiopia providing  Various construction services like construction of buildings, roads, special factory Foundations, bridges and various types of civil engineering edifice contributing to the development Of the construction industry
